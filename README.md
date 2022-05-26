@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://muskan-portfolio-11.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://muskan-portfolio-111.netlify.app/)**
 
 - 📫 How to reach me *micgupta01@gmail.com*
 
