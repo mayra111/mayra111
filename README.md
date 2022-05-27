@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://muskan-portfolio-111.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://muskan-portfolio-011.netlify.app)**
 
 - 📫 How to reach me *micgupta01@gmail.com*
 
@@ -36,14 +36,14 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek mehra's streak" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek-mehra&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Muskan Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Muskan gupta&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mayra111/github-readme-stats"><img alt="Abhishek Giri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayra111&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/mayra111/github-readme-stats"><img alt="Muskan Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayra111&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
